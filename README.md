@@ -3,7 +3,8 @@
 This is a keras implementation of single super resolution algorithms: [EDSR](https://arxiv.org/abs/1707.02921), [SRGAN](https://arxiv.org/abs/1609.04802), [SRFeat](http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong-Jin_Park_SRFeat_Single_Image_ECCV_2018_paper.pdf), [RCAN](https://arxiv.org/abs/1807.02758), [ESRGAN](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Wang_ESRGAN_Enhanced_Super-Resolution_Generative_Adversarial_Networks_ECCVW_2018_paper.pdf) and [ERCA](https://drive.google.com/open?id=1GFEMT8rCR7SovhudMWFP_lvP_DrtHoTP) (ours). This work is our term project in the course EE898 Deep Learning for Robotics and Computer Vision (KAIST), which aims to improve the performance of the baseline (SRFeat). 
 To run this project you need to setup the environment, download the dataset, run script to process data, and then you can train and test the network models. I will show you step by step to run this project and i hope it is clear enough.
 
-For our detailed report: [link]()
+For our detailed report: [link](https://github.com/nguyenvietan/Single-Image-Super-Resolution-2019/blob/master/_EE898__TermProject_SISR_GANs.pdf)
+
 For our presentation video: [link](https://www.youtube.com/watch?v=B5Ocsbg0gF8)
 
 ## Prerequiste
